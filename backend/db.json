@@ -1,6 +1,13 @@
 {
   "opinions": [
     {
+      "id": 1777816662657,
+      "votes": 0,
+      "userName": "Arief Nugroho",
+      "title": "How to learn react in positive ways",
+      "body": "I think learning react is an important thing for todays "
+    },
+    {
       "id": 1,
       "userName": "Maximilian Schwarzmüller",
       "title": "Do yourself a favor and learn React!",
